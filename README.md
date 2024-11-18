@@ -21,11 +21,11 @@
 - Mockito
 
 ## Структура
-<br>/src/main/java/...    // Код проекта
-<br>/src/main/resources/  // Ресурсы (application.properties, Liquibase, файлы миграций)
-<br>/src/test/...          // Тесты
-<br>pom.xml                // Зависимости
-<br>README.md              // Документация проекта
+/src/main/java/...    --- Код проекта
+<br>/src/main/resources/   --- Ресурсы (application.properties, Liquibase, файлы миграций)
+<br>/src/test/...           --- Тесты
+<br>pom.xml                 --- Зависимости
+<br>README.md               --- Документация проекта
 
 ## Подготовительные действия
 1. Убедитесь, что на вашем компьютере установлены:
